@@ -1,7 +1,6 @@
 package Project;
 
 import Project.Model.MoveDirection;
-import Project.OptionsParser;
 
 public class World {
 

@@ -5,7 +5,7 @@ import Project.OptionsParser;
 
 public class World {
 
-    public static void  main(String[] args) {
+     static void  main(String[] args) {
         for(String arg: args){
             System.out.println("1." + arg);
         }

@@ -1,4 +1,4 @@
-package Project.Model;
+package project.model;
 
 public enum MoveDirection {
     FORWARD,

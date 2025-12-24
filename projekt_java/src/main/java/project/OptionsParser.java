@@ -1,6 +1,6 @@
-package Project;
+package project;
 
-import Project.Model.MoveDirection;
+import project.model.MoveDirection;
 
 public class OptionsParser {
     public static MoveDirection[] parser(String[] args){
